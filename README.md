@@ -10,6 +10,6 @@ At [Code Your Future](https://codeyourfuture.io/) we have some delicious food fr
 4. Commit your changes
 5. Make a Pull Request to the CYF repo
 
-#### Tips
+#### T
 
 The recipe file is a markdown file, so you can use everything in the [markdown syntax guide](https://guides.github.com/features/mastering-markdown/).
