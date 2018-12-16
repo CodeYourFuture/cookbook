@@ -13,5 +13,5 @@ The perfect vanilla cake
 ## Instructions
 
 1. Mix everything together
-2. Bake for 30mins at 180 degrees Celsius
+2. Bake for 40 minutes at 180 degrees Celsius
 3. Let cool and enjoy
